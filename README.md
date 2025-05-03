@@ -2,7 +2,7 @@
 
 **Speedy Car** is a highly addictive, fast-paced **Android racing game** designed to test your reflexes and timing. Drive endlessly through traffic, avoid crashes, collect coins and diamonds, and extend your racing time in this thrilling mobile arcade experience.
 
-![Speedy Car Banner](Inline Preview Image_590_300.png)
+![Speedy Car Banner](Inline_Preview_Image_590_300.png)
 
 ---
 
