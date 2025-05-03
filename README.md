@@ -20,7 +20,7 @@ Get a quick preview of the game’s sleek UI and dynamic gameplay!
 
 ## 🎬 Gameplay Demo – Watch on YouTube
 
-[![Watch Speedy Car Gameplay](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/shorts/r1y8IFEZiVw?feature=share)
+[![Watch Speedy Car Gameplay](https://img.youtube.com/vi/r1y8IFEZiVw/0.jpg)](https://www.youtube.com/shorts/r1y8IFEZiVw?feature=share)
 
 > 🔥 Experience the action! Click the image to watch a full demo of Speedy Car on **YouTube**.
 
@@ -49,19 +49,11 @@ Join thousands of players and start your racing adventure today!
 
 Want to contribute or modify the game? Follow these steps:
 
-Clone the repository:
    ```bash
    git clone git@github.com:parvej35/androidapp-SpeedyCar.git
    cd speedy-car
    ```
    
-   
-...
-
-## 💬 About the Developer
-
-Built with ❤️ by [Your Name](https://github.com/parvej35), an indie developer passionate about creating high-performance Android games.
-
 ---
 
 ## 📬 Contact for Source Code
