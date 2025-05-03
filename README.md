@@ -9,11 +9,11 @@
 Get a quick preview of the game’s sleek UI and dynamic gameplay!
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="Screenshoot_Image/image-1.jpg" alt="Speedy Car - Highway driving screenshot" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-2.jpg" alt="Speedy Car - Coin collection in-game image" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-3.jpg" alt="Speedy Car - Avoiding traffic gameplay screenshot" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-4.jpg" alt="Speedy Car - Avoiding traffic gameplay screenshot" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-5.jpg" alt="Speedy Car - Avoiding traffic gameplay screenshot" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-1.jpg" alt="Speedy Car - Home page" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-2.jpg" alt="Speedy Car - Home page" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-3.jpg" alt="Speedy Car - Racing trac" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-4.jpg" alt="Speedy Car - Racing score" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-5.jpg" alt="Speedy Car - Leaderboard" width="200" height="400"/>
 </div>
 
 ---
@@ -40,21 +40,9 @@ Join thousands of players and start your racing adventure today!
 - 🏁 **Endless driving** mode with progressive difficulty  
 - 💰 Collect **coins and diamonds** to extend game time  
 - 🌇 **Dynamic backgrounds** and speed variations  
-- 🏆 Coming soon: **Leaderboard and Achievements integration**  
+- 🏆 **Leaderboard** integration.  
 - 🎧 Immersive sound effects and lightweight performance  
 
----
-
-## 🔧 How to Install (for Developers)
-
-Want to contribute or modify the game? Follow these steps:
-
-   ```bash
-   git clone git@github.com:parvej35/androidapp-SpeedyCar.git
-   cd speedy-car
-   ```
-   
----
 
 ## 📬 Contact for Source Code
 
