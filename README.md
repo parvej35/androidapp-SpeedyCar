@@ -5,11 +5,11 @@ Welcome to **Speedy Car**, a fast-paced Android racing game where your reflexes 
 ## 📸 Screenshots
 
 <div style="display: flex; gap: 10px;">
-  <img src="Screenshoot_Image/image-1.JPEG" alt="Gameplay Screenshot 1" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-2.JPEG" alt="Gameplay Screenshot 1" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-3.JPEG" alt="Gameplay Screenshot 1" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-4.JPEG" alt="Gameplay Screenshot 1" width="200" height="400"/>
-  <img src="Screenshoot_Image/image-5.JPEG" alt="Gameplay Screenshot 1" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-1.jpg" alt="Gameplay Screenshot 1" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-2.jpg" alt="Gameplay Screenshot 1" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-3.jpg" alt="Gameplay Screenshot 1" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-4.jpg" alt="Gameplay Screenshot 1" width="200" height="400"/>
+  <img src="Screenshoot_Image/image-5.jpg" alt="Gameplay Screenshot 1" width="200" height="400"/>
 </div>
 
 
